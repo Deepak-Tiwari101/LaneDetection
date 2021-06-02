@@ -4,7 +4,7 @@ import os
 import imutils
 import matplotlib.pyplot as plt
 
-os.chdir("F:\Jupyter")
+#os.chdir("F:\Jupyter")
 
 
 def canny(image):
